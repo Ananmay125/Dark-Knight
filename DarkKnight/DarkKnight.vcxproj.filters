@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\DarkKnight.cpp" />
+    <ClCompile Include="assets\glad.c" />
+    <ClCompile Include="src\Shader.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\shaders\vertexShader.glsl" />
+    <None Include="assets\shaders\fragmentShader.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\headers\Shader.h" />
+    <ClInclude Include="src\headers\stb_image.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="src\Textures\grass_block.png" />
+  </ItemGroup>
+</Project>
