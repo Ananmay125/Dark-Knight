@@ -1,2 +1,7 @@
-﻿  DarkKnight.cpp
+﻿  camera.cpp
+  DarkKnight.cpp
+  Shader.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   DarkKnight.vcxproj -> C:\Users\Spicy32\source\repos\DarkKnight\x64\Debug\DarkKnight.exe

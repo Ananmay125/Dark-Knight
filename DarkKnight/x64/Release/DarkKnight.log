@@ -1,0 +1,9 @@
+﻿  camera.cpp
+  DarkKnight.cpp
+  Shader.cpp
+  glad.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 446 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DarkKnight.vcxproj -> C:\Users\Spicy32\source\repos\DarkKnight\x64\Release\DarkKnight.exe
