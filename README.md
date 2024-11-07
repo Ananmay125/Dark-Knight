@@ -8,4 +8,4 @@ Open world RPG game which is still under development and will continue to develo
 
 ## Current Status
 
-! [status-1](/developmentStatus/status-1.png)
+! [status-1](/DarkKnight/assets/developmentStatus/status-1.png)
