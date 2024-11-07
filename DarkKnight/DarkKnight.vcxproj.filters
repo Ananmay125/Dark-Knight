@@ -4,6 +4,7 @@
     <ClCompile Include="src\DarkKnight.cpp" />
     <ClCompile Include="assets\glad.c" />
     <ClCompile Include="src\Shader.cpp" />
+    <ClCompile Include="src\camera.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="assets\shaders\vertexShader.glsl" />
@@ -12,8 +13,12 @@
   <ItemGroup>
     <ClInclude Include="src\headers\Shader.h" />
     <ClInclude Include="src\headers\stb_image.h" />
+    <ClInclude Include="src\headers\camera.h" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="src\Textures\grass_block.png" />
+    <Image Include="src\Textures\chess.png" />
+    <Image Include="src\Textures\grass.jpg" />
+    <Image Include="src\Textures\grass1.jpg" />
   </ItemGroup>
 </Project>
